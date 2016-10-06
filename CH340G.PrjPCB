@@ -56,7 +56,7 @@ GenerateClassCluster=0
 DocumentUniqueId=INRWBDYV
 
 [Document2]
-DocumentPath=C:\Users\Administrator\Downloads\CH340G.SchLib
+DocumentPath=..\..\Downloads\CH340G.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -73,23 +73,6 @@ GenerateClassCluster=0
 DocumentUniqueId=TFVQSWBY
 
 [Document3]
-DocumentPath=..\..\Ñ¸À×ÏÂÔØ\USB_TTL_232_RPOTELÔ­ÀíÍ¼PCB\USB_COM.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=AFRPOSOI
-
-[Document4]
 DocumentPath=PcbLib.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -106,7 +89,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PINFJEMS
 
-[Document5]
+[Document4]
 DocumentPath=CH340G.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -123,7 +106,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KCGRDMPT
 
-[Document6]
+[Document5]
 DocumentPath=CH340G.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
