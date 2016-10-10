@@ -123,6 +123,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ICGAMFKO
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for CH340G\Design Rule Check - CH340G.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Default Configuration
 ParameterCount=0
